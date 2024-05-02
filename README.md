@@ -7,7 +7,7 @@ This project focuses on utilizing Long Short-Term Memory (LSTM) networks, a type
 
 To set up the project environment, run the following commands:
 ```bash
-git clone https://github.com/your-repository/lstm-stock-predictor.git
+git clone https://github.com/devanshijoshi08/Stock-Returns-Prediction.git
 cd repository-name
 pip install -r requirements.txt
 ```
@@ -19,7 +19,7 @@ RAM: 16 GB
 Processor: i7 13th Generation Intel
 The python compiler was set up to run on the GPU. 
 
-## Usage
+### Usage
 To run the LSTM model training and evaluation, open and run the `Stock_Return_Prediction.ipynb`.
 
 ### Methodology
